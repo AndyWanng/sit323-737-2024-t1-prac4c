@@ -1,0 +1,28 @@
+2024-03-14 11:04:25 INFO: Server running on port 3000
+2024-03-14 11:04:48 INFO: Operation add successful on num1=5, num2=3, Result=8
+2024-03-14 11:04:48 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:05:12 INFO: Operation exponent successful on num1=2, num2=3, Result=8
+2024-03-14 11:05:12 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:05:27 INFO: Operation sqrt successful on num1=16, num2=undefined, Result=4
+2024-03-14 11:05:27 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:05:38 ERROR: Error occurred: Cannot find the square root of a negative number.
+2024-03-14 11:05:38 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:05:59 INFO: Operation abs successful on num1=-5, num2=undefined, Result=5
+2024-03-14 11:05:59 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:36:22 INFO: Server running on port 3000
+2024-03-14 11:37:15 INFO: Operation exponent successful on num1=2, num2=3, Result=8
+2024-03-14 11:37:15 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:37:40 INFO: Operation sqrt successful on num1=16, num2=undefined, Result=4
+2024-03-14 11:37:40 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:38:03 INFO: Operation modulo successful on num1=10, num2=3, Result=1
+2024-03-14 11:38:03 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:38:28 INFO: Operation abs successful on num1=-5, num2=undefined, Result=5
+2024-03-14 11:38:28 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:38:56 INFO: Operation remainder successful on num1=10, num2=4, Result=2
+2024-03-14 11:38:56 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:39:20 ERROR: Operation not found: notAnOperation
+2024-03-14 11:39:20 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:39:44 ERROR: Error occurred: Cannot find the square root of a negative number.
+2024-03-14 11:39:44 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
+2024-03-14 11:40:04 ERROR: Error occurred: Cannot divide by zero.
+2024-03-14 11:40:04 ERROR: Invalid input: num1=undefined, num2=undefined, operation=favicon.ico
